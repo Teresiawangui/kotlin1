@@ -1,0 +1,14 @@
+p{
+    padding: 20px;
+    margin: 5%;
+    border: solid 5px;
+    border-color: rgb(19, 19, 202);
+    
+    
+}
+#container2{
+    border: solid 6px;
+    border-style: dotted;
+    border-color: rgb(212, 31, 31);
+}
+
